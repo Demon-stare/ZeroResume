@@ -1,0 +1,59 @@
+{
+    "name": "John Doe",
+    "email": "johndoe@email.com",
+    "phone": "(555) 555-1212",
+    
+    "address": {
+      "street": "123 Main Street",
+      "city": "Anytown",
+      "state": "virginia",
+      "zipCode" : "353543"
+     },
+    
+        "summary":"Highly motivated software engineer with over five years of experience developing web and mobile applications. Proficient in multiple programming languages including Java, Python and JavaScript. Skilled in leading teams and managing projects from start to finish.",
+        
+      "experience":[
+        {
+             "title":"Software Engineer", 
+             "company":"XYZ Company", 
+             "startDate":"2018", 
+             "endDate":"Present", 
+            
+            "description":[
+                {"task1":"Developed and maintained web applications using React.js."},
+                {"task2":"Led team of four developers on major project delivery."},
+                {"task3":"Worked closely with product management to ensure timely delivery of high-quality products."}
+             ]
+          },
+
+
+
+          {
+            "title": "Junior Software Developer",
+            "company":"ABC Company",	 
+            "startDate":"2015",
+             "endDate":"2018"
+                    
+             ,"description":[
+               {"task1":"Contributed code to several large-scale enterprise systems using Java."},
+               {"task2":"Collaborated with senior developers on complex coding tasks."}
+           ]
+       }
+       
+       ],
+       
+       "education":{
+       
+        "degree":"Bachelor’s Degree",
+         "major":"Computer Science",
+          "universityName":"University Name" ,
+           "startDate":2011,
+            "endDate":2015
+       }
+        
+  }
+
+
+
+
+
