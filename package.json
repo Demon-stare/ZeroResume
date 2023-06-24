@@ -1,0 +1,12 @@
+{
+
+  "dependencies": {
+
+    "pdfmake": "^0.2.7",
+
+    "requirejs": "^2.3.6"
+
+  }
+
+}
+
